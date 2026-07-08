@@ -6,7 +6,7 @@
     },
     "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=2.9679677_50.6612596_3.125725_50.6008264&locationName=Lille": {
       "available": [],
-      "errors": 0
+      "errors": 1
     },
     "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=3.1158064_50.6732934_3.2078132_50.5985301&locationName=Villeneuve-d%27Ascq": {
       "available": [],
