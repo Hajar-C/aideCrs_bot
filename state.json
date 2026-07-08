@@ -11,6 +11,12 @@
     "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=3.1158064_50.6732934_3.2078132_50.5985301&locationName=Villeneuve-d%27Ascq": {
       "available": [],
       "errors": 0
+    },
+    "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=6.134292_48.7092349_6.2126188_48.666906&locationName=Nancy+%2854000%29": {
+      "available": [
+        "736"
+      ],
+      "errors": 0
     }
   },
   "last_heartbeat": "2026-07-07"
