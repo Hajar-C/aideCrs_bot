@@ -2,15 +2,15 @@
   "zones": {
     "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=3.1311025_50.6150217_3.1514338_50.6030654&locationName=Cit%C3%A9+Scientifique+-+Lille1%2C+Villeneuve-d%27Ascq": {
       "available": [],
-      "errors": 0
+      "errors": 1
     },
     "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=2.9679677_50.6612596_3.125725_50.6008264&locationName=Lille": {
       "available": [],
-      "errors": 0
+      "errors": 1
     },
     "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=3.1158064_50.6732934_3.2078132_50.5985301&locationName=Villeneuve-d%27Ascq": {
       "available": [],
-      "errors": 0
+      "errors": 1
     },
     "https://trouverunlogement.lescrous.fr/tools/47/search?bounds=6.134292_48.7092349_6.2126188_48.666906&locationName=Nancy+%2854000%29": {
       "available": [
